@@ -1,2 +1,6 @@
 mango
 orange
+Burger
+piza
+Biriyani
+KFC Chiken
